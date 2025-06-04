@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Rcaron;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = R;
 },
 {
 pos = (57,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 675;
@@ -23,7 +23,7 @@ ref = R;
 },
 {
 pos = (95,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 611;
@@ -36,7 +36,7 @@ ref = R;
 },
 {
 pos = (77,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 641;

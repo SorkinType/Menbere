@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Macute;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = M;
 },
 {
 pos = (385,181);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 959;
@@ -22,8 +22,8 @@ shapes = (
 ref = M;
 },
 {
-pos = (379,181);
-ref = acutecomb;
+pos = (379,3);
+ref = acutecomb.case;
 }
 );
 width = 928;
@@ -36,7 +36,7 @@ ref = M;
 },
 {
 pos = (378,181);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 889;

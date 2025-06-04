@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Abreve;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = A;
 },
 {
 pos = (95,177);
-ref = brevecomb;
+ref = brevecomb.case;
 }
 );
 width = 705;
@@ -23,7 +23,7 @@ ref = A;
 },
 {
 pos = (107,177);
-ref = brevecomb;
+ref = brevecomb.case;
 }
 );
 width = 617;
@@ -36,7 +36,7 @@ ref = A;
 },
 {
 pos = (102,178);
-ref = brevecomb;
+ref = brevecomb.case;
 }
 );
 width = 662;

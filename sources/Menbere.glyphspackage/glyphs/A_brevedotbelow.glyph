@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 3;
 glyphname = Abrevedotbelow;
 layers = (
 {
@@ -14,7 +14,7 @@ ref = dotbelowcomb;
 },
 {
 pos = (95,177);
-ref = brevecomb;
+ref = brevecomb.case;
 }
 );
 width = 705;
@@ -31,7 +31,7 @@ ref = dotbelowcomb;
 },
 {
 pos = (102,178);
-ref = brevecomb;
+ref = brevecomb.case;
 }
 );
 width = 662;
@@ -48,7 +48,7 @@ ref = dotbelowcomb;
 },
 {
 pos = (107,177);
-ref = brevecomb;
+ref = brevecomb.case;
 }
 );
 width = 617;

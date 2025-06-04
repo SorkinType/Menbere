@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Amacron;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = A;
 },
 {
 pos = (119,177);
-ref = macroncomb;
+ref = macroncomb.case;
 }
 );
 width = 705;
@@ -23,7 +23,7 @@ ref = A;
 },
 {
 pos = (107,177);
-ref = macroncomb;
+ref = macroncomb.case;
 }
 );
 width = 617;
@@ -36,7 +36,7 @@ ref = A;
 },
 {
 pos = (114,178);
-ref = macroncomb;
+ref = macroncomb.case;
 }
 );
 width = 662;

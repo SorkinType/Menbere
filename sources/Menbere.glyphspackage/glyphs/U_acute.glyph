@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Uacute;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = U;
 },
 {
 pos = (289,181);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 770;
@@ -23,7 +23,7 @@ ref = U;
 },
 {
 pos = (300,181);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 734;
@@ -35,8 +35,8 @@ shapes = (
 ref = U;
 },
 {
-pos = (290,181);
-ref = acutecomb;
+pos = (290,3);
+ref = acutecomb.case;
 }
 );
 width = 749;

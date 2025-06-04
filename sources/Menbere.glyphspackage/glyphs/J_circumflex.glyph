@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Jcircumflex;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = J;
 },
 {
 pos = (-110,181);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 339;
@@ -23,7 +23,7 @@ ref = J;
 },
 {
 pos = (-96,181);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 292;
@@ -36,7 +36,7 @@ ref = J;
 },
 {
 pos = (-84,181);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 256;

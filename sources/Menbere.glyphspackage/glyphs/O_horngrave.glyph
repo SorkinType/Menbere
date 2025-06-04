@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 3;
 glyphname = Ohorngrave;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = Ohorn;
 },
 {
 pos = (111,181);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 811;
@@ -23,7 +23,7 @@ ref = Ohorn;
 },
 {
 pos = (148,181);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 796;
@@ -36,7 +36,7 @@ ref = Ohorn;
 },
 {
 pos = (158,181);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 781;

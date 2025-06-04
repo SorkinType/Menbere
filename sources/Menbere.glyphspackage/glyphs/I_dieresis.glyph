@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Idieresis;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = I;
 },
 {
 pos = (-147,177);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 }
 );
 width = 398;
@@ -23,7 +23,7 @@ ref = I;
 },
 {
 pos = (-167,177);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 }
 );
 width = 330;
@@ -36,7 +36,7 @@ ref = I;
 },
 {
 pos = (-157,177);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 }
 );
 width = 356;

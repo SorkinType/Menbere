@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Wacute;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = W;
 },
 {
 pos = (396,181);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 984;
@@ -23,7 +23,7 @@ ref = W;
 },
 {
 pos = (389,181);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 915;
@@ -35,8 +35,8 @@ shapes = (
 ref = W;
 },
 {
-pos = (403,181);
-ref = acutecomb;
+pos = (403,3);
+ref = acutecomb.case;
 }
 );
 width = 975;

@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Odieresismacron;
 layers = (
 {
@@ -10,11 +10,11 @@ ref = O;
 },
 {
 pos = (58,181);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 },
 {
 pos = (172,354);
-ref = macroncomb;
+ref = macroncomb.case;
 }
 );
 width = 811;
@@ -27,11 +27,11 @@ ref = O;
 },
 {
 pos = (63,181);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 },
 {
 pos = (177,349);
-ref = macroncomb;
+ref = macroncomb.case;
 }
 );
 width = 796;
@@ -44,11 +44,11 @@ ref = O;
 },
 {
 pos = (60,181);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 },
 {
 pos = (188,337);
-ref = macroncomb;
+ref = macroncomb.case;
 }
 );
 width = 781;

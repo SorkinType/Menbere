@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Ocircumflex;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = O;
 },
 {
 pos = (125,181);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 811;
@@ -23,7 +23,7 @@ ref = O;
 },
 {
 pos = (179,181);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 781;
@@ -36,7 +36,7 @@ ref = O;
 },
 {
 pos = (155,181);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 796;

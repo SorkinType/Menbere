@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 3;
 glyphname = Ahookabove;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = A;
 },
 {
 pos = (195,178);
-ref = hookabovecomb;
+ref = hookabovecomb.case;
 }
 );
 width = 705;
@@ -23,7 +23,7 @@ ref = A;
 },
 {
 pos = (184,188);
-ref = hookabovecomb;
+ref = hookabovecomb.case;
 }
 );
 width = 662;
@@ -36,7 +36,7 @@ ref = A;
 },
 {
 pos = (184,194);
-ref = hookabovecomb;
+ref = hookabovecomb.case;
 }
 );
 width = 617;

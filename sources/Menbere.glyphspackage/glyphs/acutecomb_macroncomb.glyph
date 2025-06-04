@@ -21,7 +21,7 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (-51,302);
+pos = (-51,480);
 ref = macroncomb;
 }
 );

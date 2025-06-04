@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = eacute;
 layers = (
 {
@@ -35,7 +35,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (206,-10);
+pos = (206,-188);
 ref = acutecomb;
 }
 );

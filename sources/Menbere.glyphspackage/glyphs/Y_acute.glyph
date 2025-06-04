@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Yacute;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = Y;
 },
 {
 pos = (224,181);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 639;
@@ -23,7 +23,7 @@ ref = Y;
 },
 {
 pos = (206,181);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 546;
@@ -35,8 +35,8 @@ shapes = (
 ref = Y;
 },
 {
-pos = (211,181);
-ref = acutecomb;
+pos = (211,3);
+ref = acutecomb.case;
 }
 );
 width = 591;

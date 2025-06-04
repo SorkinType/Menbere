@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Wcircumflex;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = W;
 },
 {
 pos = (212,181);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 984;
@@ -23,7 +23,7 @@ ref = W;
 },
 {
 pos = (245,181);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 915;
@@ -36,7 +36,7 @@ ref = W;
 },
 {
 pos = (245,181);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 975;

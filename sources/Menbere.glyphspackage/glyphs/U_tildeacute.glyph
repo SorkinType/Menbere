@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Utildeacute;
 layers = (
 {
@@ -10,11 +10,11 @@ ref = U;
 },
 {
 pos = (111,181);
-ref = tildecomb;
+ref = tildecomb.case;
 },
 {
 pos = (289,385);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 770;
@@ -27,11 +27,11 @@ ref = U;
 },
 {
 pos = (117,191);
-ref = tildecomb;
+ref = tildecomb.case;
 },
 {
-pos = (290,373);
-ref = acutecomb;
+pos = (290,195);
+ref = acutecomb.case;
 }
 );
 width = 749;
@@ -44,11 +44,11 @@ ref = U;
 },
 {
 pos = (125,198);
-ref = tildecomb;
+ref = tildecomb.case;
 },
 {
 pos = (300,372);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 734;

@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Otildeacute;
 layers = (
 {
@@ -10,11 +10,11 @@ ref = O;
 },
 {
 pos = (131,181);
-ref = tildecomb;
+ref = tildecomb.case;
 },
 {
 pos = (309,385);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 811;
@@ -27,11 +27,11 @@ ref = O;
 },
 {
 pos = (140,191);
-ref = tildecomb;
+ref = tildecomb.case;
 },
 {
-pos = (313,373);
-ref = acutecomb;
+pos = (313,195);
+ref = acutecomb.case;
 }
 );
 width = 796;
@@ -44,11 +44,11 @@ ref = O;
 },
 {
 pos = (148,198);
-ref = tildecomb;
+ref = tildecomb.case;
 },
 {
 pos = (323,372);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 781;

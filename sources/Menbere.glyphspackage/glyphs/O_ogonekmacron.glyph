@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Oogonekmacron;
 layers = (
 {
@@ -14,7 +14,7 @@ ref = ogonekcomb;
 },
 {
 pos = (172,181);
-ref = macroncomb;
+ref = macroncomb.case;
 }
 );
 width = 811;
@@ -31,7 +31,7 @@ ref = ogonekcomb;
 },
 {
 pos = (181,181);
-ref = macroncomb;
+ref = macroncomb.case;
 }
 );
 width = 796;
@@ -48,7 +48,7 @@ ref = ogonekcomb;
 },
 {
 pos = (188,181);
-ref = macroncomb;
+ref = macroncomb.case;
 }
 );
 width = 781;

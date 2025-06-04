@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Gcaron;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = G;
 },
 {
 pos = (156,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 734;
@@ -23,7 +23,7 @@ ref = G;
 },
 {
 pos = (194,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 738;
@@ -36,7 +36,7 @@ ref = G;
 },
 {
 pos = (224,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 736;

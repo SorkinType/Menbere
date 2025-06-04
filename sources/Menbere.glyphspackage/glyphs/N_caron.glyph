@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Ncaron;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = N;
 },
 {
 pos = (136,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 832;
@@ -23,7 +23,7 @@ ref = N;
 },
 {
 pos = (159,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 743;
@@ -36,7 +36,7 @@ ref = N;
 },
 {
 pos = (149,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 784;

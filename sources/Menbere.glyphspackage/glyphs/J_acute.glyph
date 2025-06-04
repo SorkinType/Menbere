@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Jacute;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = J;
 },
 {
 pos = (74,181);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 339;
@@ -22,8 +22,8 @@ shapes = (
 ref = J;
 },
 {
-pos = (62,181);
-ref = acutecomb;
+pos = (62,3);
+ref = acutecomb.case;
 }
 );
 width = 292;
@@ -36,7 +36,7 @@ ref = J;
 },
 {
 pos = (60,181);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 256;

@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 3;
 glyphname = Abrevetilde;
 layers = (
 {
@@ -9,8 +9,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (95,177);
-ref = brevecomb_tildecomb;
+pos = (95,-1);
+ref = brevecomb_tildecomb.case;
 }
 );
 width = 705;
@@ -22,8 +22,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (102,188);
-ref = brevecomb_tildecomb;
+pos = (102,0);
+ref = brevecomb_tildecomb.case;
 }
 );
 width = 662;
@@ -35,8 +35,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (107,194);
-ref = brevecomb_tildecomb;
+pos = (107,-1);
+ref = brevecomb_tildecomb.case;
 }
 );
 width = 617;

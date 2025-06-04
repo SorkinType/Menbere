@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Ohungarumlaut;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = O;
 },
 {
 pos = (183,181);
-ref = hungarumlautcomb;
+ref = hungarumlautcomb.case;
 }
 );
 width = 811;
@@ -23,7 +23,7 @@ ref = O;
 },
 {
 pos = (215,198);
-ref = hungarumlautcomb;
+ref = hungarumlautcomb.case;
 }
 );
 width = 781;
@@ -36,7 +36,7 @@ ref = O;
 },
 {
 pos = (212,191);
-ref = hungarumlautcomb;
+ref = hungarumlautcomb.case;
 }
 );
 width = 796;

@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Pacute;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = P;
 },
 {
 pos = (224,181);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 640;
@@ -22,8 +22,8 @@ shapes = (
 ref = P;
 },
 {
-pos = (225,181);
-ref = acutecomb;
+pos = (225,3);
+ref = acutecomb.case;
 }
 );
 width = 620;
@@ -36,7 +36,7 @@ ref = P;
 },
 {
 pos = (233,181);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 599;

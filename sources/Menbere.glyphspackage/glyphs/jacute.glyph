@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = jacute;
 layers = (
 {
@@ -22,7 +22,7 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (53,-10);
+pos = (53,-188);
 ref = acutecomb;
 }
 );

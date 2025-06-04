@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = Otildedieresis;
 layers = (
 {
@@ -9,11 +10,11 @@ ref = O;
 },
 {
 pos = (131,181);
-ref = tildecomb;
+ref = tildecomb.case;
 },
 {
 pos = (58,385);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 }
 );
 width = 811;
@@ -26,11 +27,11 @@ ref = O;
 },
 {
 pos = (140,191);
-ref = tildecomb;
+ref = tildecomb.case;
 },
 {
 pos = (63,373);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 }
 );
 width = 796;
@@ -43,11 +44,11 @@ ref = O;
 },
 {
 pos = (148,198);
-ref = tildecomb;
+ref = tildecomb.case;
 },
 {
 pos = (60,372);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 }
 );
 width = 781;

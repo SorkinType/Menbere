@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 3;
 glyphname = Acircumflexhookabove;
 layers = (
 {
@@ -9,8 +9,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (67,177);
-ref = circumflexcomb_hookabovecomb;
+pos = (67,-1);
+ref = circumflexcomb_hookabovecomb.case;
 }
 );
 width = 705;
@@ -22,8 +22,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (88,188);
-ref = circumflexcomb_hookabovecomb;
+pos = (88,0);
+ref = circumflexcomb_hookabovecomb.case;
 }
 );
 width = 662;
@@ -35,8 +35,8 @@ shapes = (
 ref = A;
 },
 {
-pos = (98,194);
-ref = circumflexcomb_hookabovecomb;
+pos = (98,-1);
+ref = circumflexcomb_hookabovecomb.case;
 }
 );
 width = 617;

@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Ecaron;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = E;
 },
 {
 pos = (5,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 570;
@@ -23,7 +23,7 @@ ref = E;
 },
 {
 pos = (70,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 563;
@@ -36,7 +36,7 @@ ref = E;
 },
 {
 pos = (41,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 565;

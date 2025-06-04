@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Ograve;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = O;
 },
 {
 pos = (111,181);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 811;
@@ -23,7 +23,7 @@ ref = O;
 },
 {
 pos = (158,181);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 781;
@@ -36,7 +36,7 @@ ref = O;
 },
 {
 pos = (148,181);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 796;

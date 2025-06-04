@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Wgrave;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = W;
 },
 {
 pos = (198,181);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 984;
@@ -23,7 +23,7 @@ ref = W;
 },
 {
 pos = (224,181);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 915;
@@ -36,7 +36,7 @@ ref = W;
 },
 {
 pos = (238,181);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 975;

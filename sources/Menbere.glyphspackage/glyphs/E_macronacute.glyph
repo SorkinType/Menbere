@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Emacronacute;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = E;
 },
 {
 pos = (52,177);
-ref = macroncomb_acutecomb;
+ref = macroncomb_acutecomb.case;
 }
 );
 width = 570;
@@ -23,7 +23,7 @@ ref = E;
 },
 {
 pos = (67,177);
-ref = macroncomb_acutecomb;
+ref = macroncomb_acutecomb.case;
 }
 );
 width = 565;
@@ -36,7 +36,7 @@ ref = E;
 },
 {
 pos = (79,177);
-ref = macroncomb_acutecomb;
+ref = macroncomb_acutecomb.case;
 }
 );
 width = 563;

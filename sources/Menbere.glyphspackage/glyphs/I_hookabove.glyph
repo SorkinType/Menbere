@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 3;
 glyphname = Ihookabove;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = I;
 },
 {
 pos = (43,178);
-ref = hookabovecomb;
+ref = hookabovecomb.case;
 }
 );
 width = 398;
@@ -23,7 +23,7 @@ ref = I;
 },
 {
 pos = (31,187);
-ref = hookabovecomb;
+ref = hookabovecomb.case;
 }
 );
 width = 356;
@@ -36,7 +36,7 @@ ref = I;
 },
 {
 pos = (38,194);
-ref = hookabovecomb;
+ref = hookabovecomb.case;
 }
 );
 width = 330;

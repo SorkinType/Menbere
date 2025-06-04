@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Igrave;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = I;
 },
 {
 pos = (-94,177);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 398;
@@ -23,7 +23,7 @@ ref = I;
 },
 {
 pos = (-69,177);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 330;
@@ -36,7 +36,7 @@ ref = I;
 },
 {
 pos = (-72,177);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 356;

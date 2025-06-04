@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Sacute;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = S;
 },
 {
 pos = (201,177);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 561;
@@ -23,7 +23,7 @@ ref = S;
 },
 {
 pos = (222,177);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 554;
@@ -35,8 +35,8 @@ shapes = (
 ref = S;
 },
 {
-pos = (206,177);
-ref = acutecomb;
+pos = (206,-1);
+ref = acutecomb.case;
 }
 );
 width = 559;

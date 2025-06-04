@@ -22,7 +22,7 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (224,0);
+pos = (224,-178);
 ref = acutecomb;
 }
 );

@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Ocaron;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = O;
 },
 {
 pos = (125,181);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 811;
@@ -23,7 +23,7 @@ ref = O;
 },
 {
 pos = (155,181);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 796;
@@ -36,7 +36,7 @@ ref = O;
 },
 {
 pos = (179,181);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 781;

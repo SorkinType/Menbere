@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Nacute;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = N;
 },
 {
 pos = (320,177);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 832;
@@ -23,7 +23,7 @@ ref = N;
 },
 {
 pos = (303,177);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 743;
@@ -35,8 +35,8 @@ shapes = (
 ref = N;
 },
 {
-pos = (307,177);
-ref = acutecomb;
+pos = (307,-1);
+ref = acutecomb.case;
 }
 );
 width = 784;

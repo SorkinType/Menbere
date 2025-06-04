@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Uhungarumlaut;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = U;
 },
 {
 pos = (163,181);
-ref = hungarumlautcomb;
+ref = hungarumlautcomb.case;
 }
 );
 width = 770;
@@ -23,7 +23,7 @@ ref = U;
 },
 {
 pos = (192,198);
-ref = hungarumlautcomb;
+ref = hungarumlautcomb.case;
 }
 );
 width = 734;
@@ -36,7 +36,7 @@ ref = U;
 },
 {
 pos = (189,191);
-ref = hungarumlautcomb;
+ref = hungarumlautcomb.case;
 }
 );
 width = 749;

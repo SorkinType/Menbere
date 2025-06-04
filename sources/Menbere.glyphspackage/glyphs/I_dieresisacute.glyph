@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Idieresisacute;
 layers = (
 {
@@ -10,11 +10,11 @@ ref = I;
 },
 {
 pos = (-147,177);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 },
 {
 pos = (104,350);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 398;
@@ -27,11 +27,11 @@ ref = I;
 },
 {
 pos = (-157,177);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 },
 {
-pos = (89,345);
-ref = acutecomb;
+pos = (89,167);
+ref = acutecomb.case;
 }
 );
 width = 356;
@@ -44,11 +44,11 @@ ref = I;
 },
 {
 pos = (-167,177);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 },
 {
 pos = (96,333);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 330;

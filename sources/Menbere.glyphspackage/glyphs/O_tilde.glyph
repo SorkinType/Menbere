@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Otilde;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = O;
 },
 {
 pos = (131,181);
-ref = tildecomb;
+ref = tildecomb.case;
 }
 );
 width = 811;
@@ -23,7 +23,7 @@ ref = O;
 },
 {
 pos = (148,198);
-ref = tildecomb;
+ref = tildecomb.case;
 }
 );
 width = 781;
@@ -36,7 +36,7 @@ ref = O;
 },
 {
 pos = (140,191);
-ref = tildecomb;
+ref = tildecomb.case;
 }
 );
 width = 796;

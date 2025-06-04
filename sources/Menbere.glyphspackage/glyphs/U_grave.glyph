@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Ugrave;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = U;
 },
 {
 pos = (91,181);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 770;
@@ -23,7 +23,7 @@ ref = U;
 },
 {
 pos = (135,181);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 734;
@@ -36,7 +36,7 @@ ref = U;
 },
 {
 pos = (125,181);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 749;

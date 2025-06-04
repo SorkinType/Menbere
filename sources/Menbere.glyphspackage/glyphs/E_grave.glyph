@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Egrave;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = E;
 },
 {
 pos = (-9,177);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 570;
@@ -23,7 +23,7 @@ ref = E;
 },
 {
 pos = (49,177);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 563;
@@ -36,7 +36,7 @@ ref = E;
 },
 {
 pos = (34,177);
-ref = gravecomb;
+ref = gravecomb.case;
 }
 );
 width = 565;

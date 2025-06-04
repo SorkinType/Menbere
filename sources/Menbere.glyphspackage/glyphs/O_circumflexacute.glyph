@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 3;
 glyphname = Ocircumflexacute;
 layers = (
 {
@@ -9,8 +9,8 @@ shapes = (
 ref = O;
 },
 {
-pos = (123,181);
-ref = circumflexcomb_acutecomb;
+pos = (123,3);
+ref = circumflexcomb_acutecomb.case;
 }
 );
 width = 811;
@@ -22,8 +22,8 @@ shapes = (
 ref = O;
 },
 {
-pos = (155,191);
-ref = circumflexcomb_acutecomb;
+pos = (155,3);
+ref = circumflexcomb_acutecomb.case;
 }
 );
 width = 796;
@@ -35,8 +35,8 @@ shapes = (
 ref = O;
 },
 {
-pos = (179,198);
-ref = circumflexcomb_acutecomb;
+pos = (179,3);
+ref = circumflexcomb_acutecomb.case;
 }
 );
 width = 781;

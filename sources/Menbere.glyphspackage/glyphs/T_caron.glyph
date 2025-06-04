@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Tcaron;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = T;
 },
 {
 pos = (16,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 592;
@@ -23,7 +23,7 @@ ref = T;
 },
 {
 pos = (58,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 541;
@@ -36,7 +36,7 @@ ref = T;
 },
 {
 pos = (42,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 570;

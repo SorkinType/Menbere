@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Aring;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = A;
 },
 {
 pos = (168,177);
-ref = ringcomb;
+ref = ringcomb.case;
 }
 );
 width = 705;
@@ -23,7 +23,7 @@ ref = A;
 },
 {
 pos = (143,177);
-ref = ringcomb;
+ref = ringcomb.case;
 }
 );
 width = 617;
@@ -36,7 +36,7 @@ ref = A;
 },
 {
 pos = (157,178);
-ref = ringcomb;
+ref = ringcomb.case;
 }
 );
 width = 662;

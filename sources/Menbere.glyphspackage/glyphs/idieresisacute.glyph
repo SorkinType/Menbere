@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = idieresisacute;
 layers = (
 {
@@ -30,7 +30,7 @@ pos = (-197,-10);
 ref = dieresiscomb;
 },
 {
-pos = (49,158);
+pos = (49,-20);
 ref = acutecomb;
 }
 );

@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 3;
 glyphname = Ohornacute;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = Ohorn;
 },
 {
 pos = (309,181);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 811;
@@ -22,8 +22,8 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (313,181);
-ref = acutecomb;
+pos = (313,3);
+ref = acutecomb.case;
 }
 );
 width = 796;
@@ -36,7 +36,7 @@ ref = Ohorn;
 },
 {
 pos = (323,181);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 781;

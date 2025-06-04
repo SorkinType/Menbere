@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 3;
 glyphname = Uhorntilde;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = Uhorn;
 },
 {
 pos = (111,181);
-ref = tildecomb;
+ref = tildecomb.case;
 }
 );
 width = 770;
@@ -23,7 +23,7 @@ ref = Uhorn;
 },
 {
 pos = (117,191);
-ref = tildecomb;
+ref = tildecomb.case;
 }
 );
 width = 749;
@@ -36,7 +36,7 @@ ref = Uhorn;
 },
 {
 pos = (125,198);
-ref = tildecomb;
+ref = tildecomb.case;
 }
 );
 width = 734;

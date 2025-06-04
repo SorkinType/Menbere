@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Omacronacute;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = O;
 },
 {
 pos = (172,181);
-ref = macroncomb_acutecomb;
+ref = macroncomb_acutecomb.case;
 }
 );
 width = 811;
@@ -23,7 +23,7 @@ ref = O;
 },
 {
 pos = (181,181);
-ref = macroncomb_acutecomb;
+ref = macroncomb_acutecomb.case;
 }
 );
 width = 796;
@@ -36,7 +36,7 @@ ref = O;
 },
 {
 pos = (188,181);
-ref = macroncomb_acutecomb;
+ref = macroncomb_acutecomb.case;
 }
 );
 width = 781;

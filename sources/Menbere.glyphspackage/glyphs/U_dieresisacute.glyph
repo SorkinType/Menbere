@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Udieresisacute;
 layers = (
 {
@@ -10,11 +10,11 @@ ref = U;
 },
 {
 pos = (38,181);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 },
 {
 pos = (289,354);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 770;
@@ -27,11 +27,11 @@ ref = U;
 },
 {
 pos = (40,181);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 },
 {
-pos = (286,349);
-ref = acutecomb;
+pos = (286,171);
+ref = acutecomb.case;
 }
 );
 width = 749;
@@ -44,11 +44,11 @@ ref = U;
 },
 {
 pos = (37,181);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 },
 {
 pos = (300,337);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 734;

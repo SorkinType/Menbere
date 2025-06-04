@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Racute;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = R;
 },
 {
 pos = (241,177);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 675;
@@ -23,7 +23,7 @@ ref = R;
 },
 {
 pos = (239,177);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 611;
@@ -35,8 +35,8 @@ shapes = (
 ref = R;
 },
 {
-pos = (235,177);
-ref = acutecomb;
+pos = (235,-1);
+ref = acutecomb.case;
 }
 );
 width = 641;

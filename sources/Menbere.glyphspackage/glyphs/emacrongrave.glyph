@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = emacrongrave;
 layers = (
 {
@@ -10,11 +10,7 @@ ref = e;
 },
 {
 pos = (69,0);
-ref = macroncomb;
-},
-{
-pos = (8,197);
-ref = gravecomb;
+ref = macroncomb_gravecomb;
 }
 );
 width = 603;
@@ -27,11 +23,7 @@ ref = e;
 },
 {
 pos = (74,-10);
-ref = macroncomb;
-},
-{
-pos = (41,159);
-ref = gravecomb;
+ref = macroncomb_gravecomb;
 }
 );
 width = 581;
@@ -44,11 +36,7 @@ ref = e;
 },
 {
 pos = (79,-17);
-ref = macroncomb;
-},
-{
-pos = (49,126);
-ref = gravecomb;
+ref = macroncomb_gravecomb;
 }
 );
 width = 563;

@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 3;
 glyphname = Ecircumflextilde;
 layers = (
 {
@@ -9,8 +9,8 @@ shapes = (
 ref = E;
 },
 {
-pos = (5,177);
-ref = circumflexcomb_tildecomb;
+pos = (5,-1);
+ref = circumflexcomb_tildecomb.case;
 }
 );
 width = 570;
@@ -22,8 +22,8 @@ shapes = (
 ref = E;
 },
 {
-pos = (41,177);
-ref = circumflexcomb_tildecomb;
+pos = (41,-1);
+ref = circumflexcomb_tildecomb.case;
 }
 );
 width = 565;
@@ -35,8 +35,8 @@ shapes = (
 ref = E;
 },
 {
-pos = (70,194);
-ref = circumflexcomb_tildecomb;
+pos = (70,-1);
+ref = circumflexcomb_tildecomb.case;
 }
 );
 width = 563;

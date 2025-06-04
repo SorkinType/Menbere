@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Ucaron;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = U;
 },
 {
 pos = (105,181);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 770;
@@ -23,7 +23,7 @@ ref = U;
 },
 {
 pos = (132,181);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 749;
@@ -36,7 +36,7 @@ ref = U;
 },
 {
 pos = (156,181);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 734;

@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Ocircumflexdotbelow;
 layers = (
 {
@@ -14,7 +14,7 @@ ref = dotbelowcomb;
 },
 {
 pos = (125,181);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 811;
@@ -31,7 +31,7 @@ ref = dotbelowcomb;
 },
 {
 pos = (155,181);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 796;
@@ -48,7 +48,7 @@ ref = dotbelowcomb;
 },
 {
 pos = (179,181);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 781;

@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Cacute;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = C;
 },
 {
 pos = (297,177);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 647;
@@ -23,7 +23,7 @@ ref = C;
 },
 {
 pos = (325,177);
-ref = acutecomb;
+ref = acutecomb.case;
 }
 );
 width = 634;
@@ -35,8 +35,8 @@ shapes = (
 ref = C;
 },
 {
-pos = (308,177);
-ref = acutecomb;
+pos = (308,-1);
+ref = acutecomb.case;
 }
 );
 width = 643;

@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Gmacron;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = G;
 },
 {
 pos = (203,177);
-ref = macroncomb;
+ref = macroncomb.case;
 }
 );
 width = 734;
@@ -23,7 +23,7 @@ ref = G;
 },
 {
 pos = (220,177);
-ref = macroncomb;
+ref = macroncomb.case;
 }
 );
 width = 738;
@@ -36,7 +36,7 @@ ref = G;
 },
 {
 pos = (233,177);
-ref = macroncomb;
+ref = macroncomb.case;
 }
 );
 width = 736;

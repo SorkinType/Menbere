@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Etilde;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = E;
 },
 {
 pos = (11,177);
-ref = tildecomb;
+ref = tildecomb.case;
 }
 );
 width = 570;
@@ -23,7 +23,7 @@ ref = E;
 },
 {
 pos = (26,187);
-ref = tildecomb;
+ref = tildecomb.case;
 }
 );
 width = 565;
@@ -36,7 +36,7 @@ ref = E;
 },
 {
 pos = (39,194);
-ref = tildecomb;
+ref = tildecomb.case;
 }
 );
 width = 563;

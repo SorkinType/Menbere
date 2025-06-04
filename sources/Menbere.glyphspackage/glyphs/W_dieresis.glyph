@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Wdieresis;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = W;
 },
 {
 pos = (145,181);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 }
 );
 width = 984;
@@ -23,7 +23,7 @@ ref = W;
 },
 {
 pos = (126,181);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 }
 );
 width = 915;
@@ -36,7 +36,7 @@ ref = W;
 },
 {
 pos = (153,181);
-ref = dieresiscomb;
+ref = dieresiscomb.case;
 }
 );
 width = 975;

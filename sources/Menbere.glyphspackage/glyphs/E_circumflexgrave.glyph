@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 3;
 glyphname = Ecircumflexgrave;
 layers = (
 {
@@ -9,8 +9,8 @@ shapes = (
 ref = E;
 },
 {
-pos = (5,177);
-ref = circumflexcomb_gravecomb;
+pos = (5,-1);
+ref = circumflexcomb_gravecomb.case;
 }
 );
 width = 570;
@@ -22,8 +22,8 @@ shapes = (
 ref = E;
 },
 {
-pos = (41,177);
-ref = circumflexcomb_gravecomb;
+pos = (41,-1);
+ref = circumflexcomb_gravecomb.case;
 }
 );
 width = 565;
@@ -35,8 +35,8 @@ shapes = (
 ref = E;
 },
 {
-pos = (70,194);
-ref = circumflexcomb_gravecomb;
+pos = (70,-1);
+ref = circumflexcomb_gravecomb.case;
 }
 );
 width = 563;

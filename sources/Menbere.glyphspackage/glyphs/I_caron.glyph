@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Icaron;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = I;
 },
 {
 pos = (-80,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 398;
@@ -23,7 +23,7 @@ ref = I;
 },
 {
 pos = (-65,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 356;
@@ -36,7 +36,7 @@ ref = I;
 },
 {
 pos = (-48,177);
-ref = caroncomb;
+ref = caroncomb.case;
 }
 );
 width = 330;

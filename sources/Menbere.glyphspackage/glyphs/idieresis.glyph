@@ -1,12 +1,11 @@
 {
-color = 5;
+color = 3;
 glyphname = idieresis;
 layers = (
 {
 layerId = "9E010061-AAF6-435A-AC72-EA6F5DDC7760";
 shapes = (
 {
-alignment = -1;
 ref = idotless;
 },
 {
@@ -14,14 +13,12 @@ pos = (-191,0);
 ref = dieresiscomb;
 }
 );
-vertWidth = 1357.3098;
 width = 312;
 },
 {
 layerId = "953CDB83-177D-4B72-9B41-8425D0D02E2F";
 shapes = (
 {
-alignment = -1;
 ref = idotless;
 },
 {
@@ -29,14 +26,12 @@ pos = (-213,-17);
 ref = dieresiscomb;
 }
 );
-vertWidth = 770.3388;
 width = 237;
 },
 {
 layerId = "C85E24C5-F5D5-436B-96A2-CB17661C75AE";
 shapes = (
 {
-alignment = -1;
 ref = idotless;
 },
 {
@@ -44,7 +39,6 @@ pos = (-197,-10);
 ref = dieresiscomb;
 }
 );
-vertWidth = 207.6228;
 width = 274;
 }
 );

@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = ddotaccent;
 layers = (
 {
@@ -9,8 +9,8 @@ shapes = (
 ref = d;
 },
 {
-pos = (356,227);
-ref = dotaccentcomb;
+pos = (356,47);
+ref = dotaccentcomb.case;
 }
 );
 width = 644;
@@ -22,8 +22,8 @@ shapes = (
 ref = d;
 },
 {
-pos = (389,236);
-ref = dotaccentcomb;
+pos = (389,49);
+ref = dotaccentcomb.case;
 }
 );
 width = 630;
@@ -35,8 +35,8 @@ shapes = (
 ref = d;
 },
 {
-pos = (408,243);
-ref = dotaccentcomb;
+pos = (408,49);
+ref = dotaccentcomb.case;
 }
 );
 width = 610;

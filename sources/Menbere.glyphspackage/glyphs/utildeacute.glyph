@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = utildeacute;
 layers = (
 {
@@ -30,7 +30,7 @@ pos = (62,0);
 ref = tildecomb;
 },
 {
-pos = (235,182);
+pos = (235,4);
 ref = acutecomb;
 }
 );

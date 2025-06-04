@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Gbreve;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = G;
 },
 {
 pos = (179,177);
-ref = brevecomb;
+ref = brevecomb.case;
 }
 );
 width = 734;
@@ -23,7 +23,7 @@ ref = G;
 },
 {
 pos = (233,177);
-ref = brevecomb;
+ref = brevecomb.case;
 }
 );
 width = 736;
@@ -36,7 +36,7 @@ ref = G;
 },
 {
 pos = (208,177);
-ref = brevecomb;
+ref = brevecomb.case;
 }
 );
 width = 738;

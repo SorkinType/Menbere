@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Vtilde;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = V;
 },
 {
 pos = (63,181);
-ref = tildecomb;
+ref = tildecomb.case;
 }
 );
 width = 675;
@@ -23,7 +23,7 @@ ref = V;
 },
 {
 pos = (60,191);
-ref = tildecomb;
+ref = tildecomb.case;
 }
 );
 width = 634;
@@ -36,7 +36,7 @@ ref = V;
 },
 {
 pos = (59,198);
-ref = tildecomb;
+ref = tildecomb.case;
 }
 );
 width = 603;

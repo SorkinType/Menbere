@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Uring;
 layers = (
 {
@@ -10,7 +10,7 @@ ref = U;
 },
 {
 pos = (201,181);
-ref = ringcomb;
+ref = ringcomb.case;
 }
 );
 width = 770;
@@ -23,7 +23,7 @@ ref = U;
 },
 {
 pos = (201,181);
-ref = ringcomb;
+ref = ringcomb.case;
 }
 );
 width = 734;
@@ -36,7 +36,7 @@ ref = U;
 },
 {
 pos = (201,181);
-ref = ringcomb;
+ref = ringcomb.case;
 }
 );
 width = 749;

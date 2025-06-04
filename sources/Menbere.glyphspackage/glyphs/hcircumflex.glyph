@@ -10,7 +10,7 @@ ref = h;
 },
 {
 pos = (-124,226);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 671;
@@ -23,7 +23,7 @@ ref = h;
 },
 {
 pos = (-102,226);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 638;
@@ -36,7 +36,7 @@ ref = h;
 },
 {
 pos = (-93,226);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 608;

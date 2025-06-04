@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 3;
 glyphname = Ecircumflexdotbelow;
 layers = (
 {
@@ -14,7 +14,7 @@ ref = dotbelowcomb;
 },
 {
 pos = (5,177);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 570;
@@ -31,7 +31,7 @@ ref = dotbelowcomb;
 },
 {
 pos = (41,177);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 565;
@@ -48,7 +48,7 @@ ref = dotbelowcomb;
 },
 {
 pos = (70,177);
-ref = circumflexcomb;
+ref = circumflexcomb.case;
 }
 );
 width = 563;
