@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 9;
 glyphname = AEmacron;
 layers = (
 {
@@ -9,7 +9,7 @@ shapes = (
 ref = AE;
 },
 {
-pos = (253,181);
+pos = (323,178);
 ref = macroncomb;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = AE;
 },
 {
-pos = (238,181);
+pos = (288,178);
 ref = macroncomb;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = AE;
 },
 {
-pos = (216,181);
+pos = (256,178);
 ref = macroncomb;
 }
 );

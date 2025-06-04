@@ -13,7 +13,7 @@ pos = (84,0);
 ref = macroncomb;
 },
 {
-pos = (221,227);
+pos = (221,197);
 ref = acutecomb;
 }
 );
@@ -30,7 +30,7 @@ pos = (92,0);
 ref = macroncomb;
 },
 {
-pos = (224,199);
+pos = (224,169);
 ref = acutecomb;
 }
 );
@@ -47,7 +47,7 @@ pos = (98,0);
 ref = macroncomb;
 },
 {
-pos = (233,173);
+pos = (233,143);
 ref = acutecomb;
 }
 );

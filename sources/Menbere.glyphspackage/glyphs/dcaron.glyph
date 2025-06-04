@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 9;
 glyphname = dcaron;
 layers = (
 {
@@ -10,8 +10,7 @@ alignment = -1;
 ref = d;
 },
 {
-alignment = -1;
-pos = (474,0);
+pos = (562,49);
 ref = caroncomb.alt;
 }
 );
@@ -26,8 +25,7 @@ alignment = -1;
 ref = d;
 },
 {
-alignment = -1;
-pos = (405,0);
+pos = (515,49);
 ref = caroncomb.alt;
 }
 );
@@ -42,8 +40,7 @@ alignment = -1;
 ref = d;
 },
 {
-alignment = -1;
-pos = (440,0);
+pos = (535,49);
 ref = caroncomb.alt;
 }
 );

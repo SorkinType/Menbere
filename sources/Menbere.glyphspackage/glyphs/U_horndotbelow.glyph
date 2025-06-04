@@ -1,0 +1,46 @@
+{
+color = 9;
+glyphname = Uhorndotbelow;
+layers = (
+{
+layerId = "9E010061-AAF6-435A-AC72-EA6F5DDC7760";
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (256,0);
+ref = dotbelowcomb;
+}
+);
+width = 770;
+},
+{
+layerId = "C85E24C5-F5D5-436B-96A2-CB17661C75AE";
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (269,0);
+ref = dotbelowcomb;
+}
+);
+width = 749;
+},
+{
+layerId = "953CDB83-177D-4B72-9B41-8425D0D02E2F";
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (282,0);
+ref = dotbelowcomb;
+}
+);
+width = 734;
+}
+);
+unicode = 7920;
+}

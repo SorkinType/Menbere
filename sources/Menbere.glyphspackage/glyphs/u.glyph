@@ -18,7 +18,7 @@ pos = (336,580);
 },
 {
 name = topright;
-pos = (648,580);
+pos = (538,499);
 }
 );
 layerId = "9E010061-AAF6-435A-AC72-EA6F5DDC7760";
@@ -69,7 +69,7 @@ pos = (303,563);
 },
 {
 name = topright;
-pos = (583,563);
+pos = (485.563,530.758);
 }
 );
 layerId = "953CDB83-177D-4B72-9B41-8425D0D02E2F";
@@ -120,7 +120,7 @@ pos = (320,570);
 },
 {
 name = topright;
-pos = (614,570);
+pos = (500.148,517);
 }
 );
 layerId = "C85E24C5-F5D5-436B-96A2-CB17661C75AE";

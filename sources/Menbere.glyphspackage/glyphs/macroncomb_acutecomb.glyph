@@ -8,7 +8,7 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (137,227);
+pos = (137,197);
 ref = acutecomb;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (132,199);
+pos = (132,169);
 ref = acutecomb;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (135,173);
+pos = (135,143);
 ref = acutecomb;
 }
 );

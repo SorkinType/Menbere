@@ -30,7 +30,7 @@ pos = (51,10);
 ref = tildecomb;
 },
 {
-pos = (224,232);
+pos = (224,192);
 ref = acutecomb;
 }
 );

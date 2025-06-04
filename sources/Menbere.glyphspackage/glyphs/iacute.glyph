@@ -1,53 +1,44 @@
 {
-color = 5;
+color = 0;
 glyphname = iacute;
 layers = (
 {
 layerId = "9E010061-AAF6-435A-AC72-EA6F5DDC7760";
 shapes = (
 {
-alignment = -1;
 ref = idotless;
 },
 {
-alignment = -1;
-pos = (47,0);
-ref = acute;
+pos = (60,0);
+ref = acutecomb;
 }
 );
-vertWidth = 1357.3098;
 width = 312;
 },
 {
 layerId = "953CDB83-177D-4B72-9B41-8425D0D02E2F";
 shapes = (
 {
-alignment = -1;
 ref = idotless;
 },
 {
-alignment = -1;
-pos = (32,0);
-ref = acute;
+pos = (50,-17);
+ref = acutecomb;
 }
 );
-vertWidth = 770.3388;
 width = 237;
 },
 {
 layerId = "C85E24C5-F5D5-436B-96A2-CB17661C75AE";
 shapes = (
 {
-alignment = -1;
 ref = idotless;
 },
 {
-alignment = -1;
-pos = (42,0);
-ref = acute;
+pos = (53,-10);
+ref = acutecomb;
 }
 );
-vertWidth = 207.6228;
 width = 274;
 }
 );
