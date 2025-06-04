@@ -22,7 +22,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (184,187);
+pos = (184,188);
 ref = hookabovecomb;
 }
 );
