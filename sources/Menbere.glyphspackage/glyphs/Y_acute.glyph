@@ -9,7 +9,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (224,181);
+pos = (224,3);
 ref = acutecomb.case;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (206,181);
+pos = (206,3);
 ref = acutecomb.case;
 }
 );
