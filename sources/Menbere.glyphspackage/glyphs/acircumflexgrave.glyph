@@ -22,7 +22,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (48,0);
+pos = (48,-23);
 ref = circumflexcomb_gravecomb;
 }
 );

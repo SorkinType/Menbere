@@ -13,7 +13,7 @@ pos = (-147,177);
 ref = dieresiscomb.case;
 },
 {
-pos = (104,350);
+pos = (104,172);
 ref = acutecomb.case;
 }
 );
@@ -47,7 +47,7 @@ pos = (-167,177);
 ref = dieresiscomb.case;
 },
 {
-pos = (96,333);
+pos = (96,155);
 ref = acutecomb.case;
 }
 );

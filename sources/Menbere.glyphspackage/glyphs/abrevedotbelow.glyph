@@ -30,7 +30,7 @@ pos = (185,0);
 ref = dotbelowcomb;
 },
 {
-pos = (62,0);
+pos = (62,-23);
 ref = brevecomb;
 }
 );

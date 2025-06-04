@@ -35,7 +35,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (62,0);
+pos = (62,-23);
 ref = brevecomb;
 }
 );

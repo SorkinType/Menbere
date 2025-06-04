@@ -9,7 +9,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (309,181);
+pos = (309,3);
 ref = acutecomb.case;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (323,181);
+pos = (323,3);
 ref = acutecomb.case;
 }
 );
