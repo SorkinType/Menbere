@@ -44,7 +44,7 @@ ttfaUseScript: true  # Set this to true if your font is not Latin
 
 # These options give fine-grained control over how fontmake builds
 # the fonts.
-# flattenComponents: true
+# flattenComponents: false
 # decomposeTransformedComponents: true
 # checkCompatibility: true
 # overlaps: booleanOperations
